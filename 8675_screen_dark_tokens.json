@@ -1,0 +1,194 @@
+{
+  "global": {
+    "白色": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "蓝黑色": {
+      "value": "#1c1f4a",
+      "type": "color"
+    },
+    "brand color品牌色": {
+      "brand-6_常规": {
+        "value": "#2f42ad",
+        "type": "color"
+      },
+      "brand-7_点击": {
+        "value": "#233180",
+        "type": "color"
+      },
+      "brand-3_禁用": {
+        "value": "#101e47",
+        "type": "color"
+      }
+    },
+    "neutral color中性色": {
+      "line": {
+        "line4_重\\按钮描边": {
+          "value": "#5b5c6b",
+          "type": "color"
+        },
+        "line3_深\\按钮描边": {
+          "value": "#707180",
+          "type": "color"
+        },
+        "line2_一般\\按钮描边": {
+          "value": "#9a9ba6",
+          "type": "color"
+        },
+        "line1_分割线": {
+          "value": "#2a2a38",
+          "type": "color"
+        }
+      },
+      "fill": {
+        "fill7_导航栏图标色": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "fill6_强调\\图标": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "fill5_重\\次级强调色": {
+          "value": "#5b5c6b",
+          "type": "color"
+        },
+        "fill4_深\\按钮点击态": {
+          "value": "#252633",
+          "type": "color"
+        },
+        "fill3_一般\\按钮": {
+          "value": "#303140",
+          "type": "color"
+        },
+        "fill2_浅\\按钮置灰": {
+          "value": "#1a1b26",
+          "type": "color"
+        },
+        "fill1_反色": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "text": {
+        "text5_强调\\正文标题": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "text4_次强调\\正文标题": {
+          "value": "#707180",
+          "type": "color"
+        },
+        "text3_次要信息": {
+          "value": "#5b5c6b",
+          "type": "color"
+        },
+        "text2_置灰信息": {
+          "value": "#353645",
+          "type": "color"
+        },
+        "text1_反色": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "background": {
+        "map_bg": {
+          "value": "#171a25",
+          "type": "color"
+        },
+        "mask_bg": {
+          "value": "#14131ae6",
+          "type": "color"
+        },
+        "bg1_系统": {
+          "value": "linear-gradient(180deg, #0b0b0f 0%, #040405 100%)",
+          "type": "color"
+        },
+        "bg2_应用": {
+          "value": "#14131a",
+          "type": "color"
+        },
+        "bg3_应用二级\\列表": {
+          "value": "#18171f",
+          "type": "color"
+        },
+        "bg4_模态弹窗": {
+          "value": "#262733",
+          "type": "color"
+        },
+        "dock": {
+          "value": "#05040d",
+          "type": "color"
+        },
+        "tripcard_bg": {
+          "value": "linear-gradient(90deg, #0e1522 0%, #13213b 99.94%)",
+          "type": "color"
+        }
+      }
+    },
+    "function color功能色": {
+      "error6_常规": {
+        "value": "#940f29",
+        "type": "color"
+      },
+      "error7_点击": {
+        "value": "#660a1c",
+        "type": "color"
+      },
+      "error3_禁用": {
+        "value": "#3d0611",
+        "type": "color"
+      },
+      "warning": {
+        "warning6_常规": {
+          "value": "#f5a70c",
+          "type": "color"
+        },
+        "warning7_点击": {
+          "value": "#cc8b0a",
+          "type": "color"
+        },
+        "warning3_禁用": {
+          "value": "#8f6107",
+          "type": "color"
+        }
+      },
+      "success": {
+        "success6_常规": {
+          "value": "#00d248",
+          "type": "color"
+        },
+        "success7_点击": {
+          "value": "#00b24a",
+          "type": "color"
+        },
+        "success3_禁用": {
+          "value": "#008035",
+          "type": "color"
+        }
+      },
+      "link": {
+        "link6_常规": {
+          "value": "#0645d6",
+          "type": "color"
+        },
+        "link7_点击": {
+          "value": "#0339b8",
+          "type": "color"
+        },
+        "link3_禁用": {
+          "value": "#022e94",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
