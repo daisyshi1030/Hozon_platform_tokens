@@ -1,94 +1,94 @@
 {
   "global": {
-    "白色": {
+    "black": {
       "value": "#ffffff",
       "type": "color"
     },
-    "蓝黑色": {
+    "black_blue": {
       "value": "#1c1f4a",
       "type": "color"
     },
-    "brand color品牌色": {
-      "brand-6_常规": {
+    "brand color": {
+      "brand-6": {
         "value": "#2f42ad",
         "type": "color"
       },
-      "brand-7_点击": {
+      "brand-7": {
         "value": "#233180",
         "type": "color"
       },
-      "brand-3_禁用": {
+      "brand-3": {
         "value": "#101e47",
         "type": "color"
       }
     },
-    "neutral color中性色": {
+    "neutral color": {
       "line": {
-        "line4_重\\按钮描边": {
+        "line4": {
           "value": "#5b5c6b",
           "type": "color"
         },
-        "line3_深\\按钮描边": {
+        "line3": {
           "value": "#707180",
           "type": "color"
         },
-        "line2_一般\\按钮描边": {
+        "line2": {
           "value": "#9a9ba6",
           "type": "color"
         },
-        "line1_分割线": {
+        "line1": {
           "value": "#2a2a38",
           "type": "color"
         }
       },
       "fill": {
-        "fill7_导航栏图标色": {
+        "fill7": {
           "value": "#ffffff",
           "type": "color"
         },
-        "fill6_强调\\图标": {
+        "fill6": {
           "value": "#ffffff",
           "type": "color"
         },
-        "fill5_重\\次级强调色": {
+        "fill5": {
           "value": "#5b5c6b",
           "type": "color"
         },
-        "fill4_深\\按钮点击态": {
+        "fill4": {
           "value": "#252633",
           "type": "color"
         },
-        "fill3_一般\\按钮": {
+        "fill3": {
           "value": "#303140",
           "type": "color"
         },
-        "fill2_浅\\按钮置灰": {
+        "fill2": {
           "value": "#1a1b26",
           "type": "color"
         },
-        "fill1_反色": {
+        "fill1": {
           "value": "#000000",
           "type": "color"
         }
       },
       "text": {
-        "text5_强调\\正文标题": {
+        "text5": {
           "value": "#ffffff",
           "type": "color"
         },
-        "text4_次强调\\正文标题": {
+        "text4": {
           "value": "#707180",
           "type": "color"
         },
-        "text3_次要信息": {
+        "text3": {
           "value": "#5b5c6b",
           "type": "color"
         },
-        "text2_置灰信息": {
+        "text2": {
           "value": "#353645",
           "type": "color"
         },
-        "text1_反色": {
+        "text1": {
           "value": "#ffffff",
           "type": "color"
         }
@@ -102,19 +102,19 @@
           "value": "#14131ae6",
           "type": "color"
         },
-        "bg1_系统": {
+        "bg1": {
           "value": "linear-gradient(180deg, #0b0b0f 0%, #040405 100%)",
           "type": "color"
         },
-        "bg2_应用": {
+        "bg2": {
           "value": "#14131a",
           "type": "color"
         },
-        "bg3_应用二级\\列表": {
+        "bg3": {
           "value": "#18171f",
           "type": "color"
         },
-        "bg4_模态弹窗": {
+        "bg4": {
           "value": "#262733",
           "type": "color"
         },
@@ -128,57 +128,59 @@
         }
       }
     },
-    "function color功能色": {
-      "error6_常规": {
-        "value": "#940f29",
-        "type": "color"
-      },
-      "error7_点击": {
-        "value": "#660a1c",
-        "type": "color"
-      },
-      "error3_禁用": {
-        "value": "#3d0611",
-        "type": "color"
+    "function color": {
+      "error": {
+        "error3": {
+          "value": "#3d0611",
+          "type": "color"
+        },
+        "error6": {
+          "value": "#940f29",
+          "type": "color"
+        },
+        "error7": {
+          "value": "#660a1c",
+          "type": "color"
+        }
       },
       "warning": {
-        "warning6_常规": {
+        "warning6": {
           "value": "#f5a70c",
           "type": "color"
         },
-        "warning7_点击": {
+        "warning7": {
           "value": "#cc8b0a",
           "type": "color"
         },
-        "warning3_禁用": {
+        "warning3": {
           "value": "#8f6107",
           "type": "color"
         }
       },
       "success": {
-        "success6_常规": {
+        "success6": {
           "value": "#00d248",
           "type": "color"
         },
-        "success7_点击": {
+        "success7": {
           "value": "#00b24a",
           "type": "color"
         },
-        "success3_禁用": {
+        "success3": {
           "value": "#008035",
           "type": "color"
         }
       },
       "link": {
-        "link6_常规": {
+        "link6": {
           "value": "#0645d6",
           "type": "color"
         },
-        "link7_点击": {
+        "link7": {
           "value": "#0339b8",
           "type": "color"
         },
-        "link3_禁用": {
+        "link3": {
           "value": "#022e94",
           "type": "color"
         }
