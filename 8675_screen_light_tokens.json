@@ -1,90 +1,90 @@
 {
   "global": {
-    "白色": {
+    "white": {
       "value": "#fffcfc",
       "type": "color"
     },
-    "蓝黑色": {
+    "black_blue": {
       "value": "#1c1f4a",
       "type": "color"
     },
-    "function color功能色": {
+    "function color": {
       "error": {
-        "error3_禁用": {
+        "error3": {
           "value": "#f0b0a9",
           "type": "color"
         },
-        "error6_常规": {
+        "error6": {
           "value": "#e72e3d",
           "type": "color"
         },
-        "error7_点击": {
+        "error7": {
           "value": "#d12735",
           "type": "color"
         }
       },
       "warning": {
-        "warning6_常规": {
+        "warning6": {
           "value": "#ebb215",
           "type": "color"
         },
-        "warning7_点击": {
+        "warning7": {
           "value": "#dba614",
           "type": "color"
         },
-        "warning3_禁用": {
+        "warning3": {
           "value": "#efdeb0",
           "type": "color"
         }
       },
       "success": {
-        "success6_常规": {
+        "success6": {
           "value": "#009425",
           "type": "color"
         },
-        "success7_点击": {
+        "success7": {
           "value": "#008421",
           "type": "color"
         },
-        "success3_禁用": {
+        "success3": {
           "value": "#9ae8a3",
           "type": "color"
         }
       },
       "link": {
-        "link6_常规": {
+        "link6": {
           "value": "#0c83fa",
           "type": "color"
         },
-        "link7_点击": {
+        "link7": {
           "value": "#167be0",
           "type": "color"
         },
-        "link3_禁用": {
+        "link3": {
           "value": "#90c3f0",
           "type": "color"
         }
       }
     },
-    "neutral color中性色": {
+    "neutral color": {
       "background": {
         "mask_bg": {
           "value": "#edebebe6",
           "type": "color"
         },
-        "bg1_系统": {
+        "bg1": {
           "value": "#edebeb",
           "type": "color"
         },
-        "bg2_应用": {
+        "bg2": {
           "value": "#f7f5f5",
           "type": "color"
         },
-        "bg3_应用二级\\列表": {
+        "bg3": {
           "value": "#f2f0f0",
           "type": "color"
         },
-        "bg4_模态弹窗": {
+        "bg4": {
           "value": "#fffcfc",
           "type": "color"
         },
@@ -102,86 +102,86 @@
         }
       },
       "text": {
-        "text5_强调\\正文标题": {
+        "text5": {
           "value": "#1c1f4a",
           "type": "color"
         },
-        "text4_次强调\\正文标题": {
+        "text4": {
           "value": "#62668a",
           "type": "color"
         },
-        "text3_次要信息": {
+        "text3": {
           "value": "#8d8fa8",
           "type": "color"
         },
-        "text2_置灰信息": {
+        "text2": {
           "value": "#d3d3db",
           "type": "color"
         },
-        "text1_反色": {
+        "text1": {
           "value": "#fffcfc",
           "type": "color"
         }
       },
       "fill": {
-        "fill7_导航栏图标色": {
+        "fill7": {
           "value": "#1c1f4a",
           "type": "color"
         },
-        "fill6_强调\\图标": {
+        "fill6": {
           "value": "#1c1f4a",
           "type": "color"
         },
-        "fill5_重\\次级强调色": {
+        "fill5": {
           "value": "#8d8fa8",
           "type": "color"
         },
-        "fill4_深\\按钮点击态": {
+        "fill4": {
           "value": "#bcbdcc",
           "type": "color"
         },
-        "fill3_一般\\按钮": {
+        "fill3": {
           "value": "#e6e6eb",
           "type": "color"
         },
-        "fill2_浅\\按钮置灰": {
+        "fill2": {
           "value": "#edeef2",
           "type": "color"
         },
-        "fill1_反色": {
+        "fill1": {
           "value": "#fffcfc",
           "type": "color"
         }
       },
       "line": {
-        "line4_重\\按钮描边": {
+        "line4": {
           "value": "#797c99",
           "type": "color"
         },
-        "line3_深\\按钮描边": {
+        "line3": {
           "value": "#bcbdcc",
           "type": "color"
         },
-        "line2_一般\\按钮描边": {
+        "line2": {
           "value": "#e8e9ed",
           "type": "color"
         },
-        "line1_分割线": {
+        "line1": {
           "value": "#e9e9f0",
           "type": "color"
         }
       }
     },
-    "brand color品牌色": {
-      "brand-6_常规": {
+    "brand color": {
+      "brand-6": {
         "value": "#1f84e0",
         "type": "color"
       },
-      "brand-7_点击": {
+      "brand-7": {
         "value": "#1b72c2",
         "type": "color"
       },
-      "brand-3_禁用": {
+      "brand-3": {
         "value": "#add4f0",
         "type": "color"
       }
